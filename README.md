@@ -1,6 +1,6 @@
 # WORKING-RESTAURANT.PY
 
-This is a program created for an imaginary mobile ordering application for a restaurant...
+This is a program created for an imaginary mobile ordering application for a restaurant. It serves as an assessment task for an online programme.
 
 ### Program Features
 
