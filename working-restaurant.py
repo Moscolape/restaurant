@@ -26,7 +26,7 @@ class SignUP():
 
         self.password = input("Please enter your password:")
         self.confirm_pass = input("Password confirmation:")
-        self.patterns = "[A-Za-z@|&0-9]*$"
+        self.patterns = "[A-Za-z][@|&][0-9]*$"
         if re.match(self.patterns, self.password):
             pass
         else:
