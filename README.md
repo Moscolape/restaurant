@@ -5,9 +5,9 @@ This is a program created for an imaginary mobile ordering application for a res
 ### Program Features
 
 When this program is run, the user is given the following options: 
-1- Sign up 
-2- Sign in 
-3- Quit application 
+1. Sign up
+2. Sign in
+3. Quit application 
 
 
 ### Prerequisites for Sign-up
