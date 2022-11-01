@@ -1,8 +1,8 @@
-######WORKING-RESTAURANT.PY
+# WORKING-RESTAURANT.PY
 
 This is a program created for an imaginary mobile ordering application for a restaurant...
 
-####Program Features
+### Program Features
 
 When this program is run, the user is given the following options: 
 1- Sign up 
@@ -10,7 +10,7 @@ When this program is run, the user is given the following options:
 3- Quit application 
 
 
-####Prerequisites for Sign-up
+### Prerequisites for Sign-up
 
 1. The signup process will not be successful until:
 2. The mobile number has 10 digits starting with 0.
@@ -28,7 +28,7 @@ fields are entered successfully, the program should stop asking the user to re-e
 details and display a message that the signup process has been completed successfully...
 
 
-##Prerequisites for Log-in
+### Prerequisites for Log-in
 
 The Application must save the User’s information of all the Successful Signups in the appropriate data 
 structure for verification purposes. During the login the program must verify the user id and password before confirming the user for successful login. Once the login is successful the user’s name must be displayed in the greeting message. After the login the user must be asked the options to sign-out and reset the password.
